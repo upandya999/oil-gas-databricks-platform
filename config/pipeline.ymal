@@ -1,0 +1,4 @@
+paths:
+  bronze: /mnt/bronze/
+  silver: /mnt/silver/
+  gold: /mnt/gold/
